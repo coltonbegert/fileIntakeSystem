@@ -2,8 +2,8 @@
   "name": "auction",
   "version": "0.0.0",
   "scripts": {
-  "private": true,
-  "start": "node ./bin/www"
+    "private": true,
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
